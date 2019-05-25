@@ -1,10 +1,28 @@
 # csc648-sp19-Team03
 
-## Please do the following steps before completing Milestone 0.
-1. Change the name of the repo from csc648-sp19-TeamNN. All that needs to chanage is the NN to your respective team number. Team numbers whos value is less than 10, please pad with a 0. Ex team 1 is Team01 team 11 is Team11. Please make sure to also remove the username from the repo as well.
+The whole point of this project was to learn the following, 
 
-1. PLEASE REMOVE THE USERNAME FROM THE REPO!!!
-
-2. Add ALL members of your team to this repo. For it to count, they must ACCEPT the invite.
+• Introduction and motivation for Software Engineering
+• Overview of several basic SE methodologies with emphasis on Iterative and Incremental
+Development and User Centered Design
+• Usability and UI design principles and practice
+• Basic components of SW Engineering process: Planning; Requirements and Specifications;
+Iterative Design, Rapid Prototyping, Mockups; Software Design; Coding and documentation
+techniques (high level only);
+• SW Engineering related to Web application development
+• Open source SW development and management (NEW)
+• Software Configuration Management, Delivery, Installation, and Documentation
+• Software Metrics, Performance and Usability Measurements
+• Software QA and Testing
+• Software Maintenance
+• Project Management issues
+• Teamwork and Communication as integral part of SW Engineering
+• Issues related to global SW engineering
+• Basics of IP, licensing, digital rights management and copyright
+• SW Engineering ethics
+• Real life examples and cases from instructor and students
+• Guest and student presentations
+• Final Group Project including several milestones, interaction with instructor, and final demo and
+delivery.
 
 
